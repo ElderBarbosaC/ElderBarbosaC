@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+    <head>
+		<title>Uma pagina simples</title>
+</head>
+<body> 
+<h1>Bem-vindo a minha primeira página </h1>
+<p>Esta página foi escrita em HTML. </p>
+</body>
+</html>
