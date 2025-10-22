@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <title> Minha primeira pagina escrita em html</title>
+    <meta charset="UTF-8">
+  </head> 
+  <body>
+    <h1>Minha primeira página escrita</h1>
+    <p> Tentando melhorar.
+    <br> E foi procurando o melhor de mim que me encontrei na programação </p>
+    <hr>
+  </body>
+  </html>
