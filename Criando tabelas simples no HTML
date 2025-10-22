@@ -1,0 +1,24 @@
+<!DOCTYPE <html>
+<head>
+  <title>
+tabela
+  </title>
+  <h1>
+tabela simples
+  </h1>
+  <table width= "100%" border= "1">
+  </table>
+</head>
+<body>
+  <tr>
+<th> segunda </th>
+<td> pão </td>
+<td> 5 reais </td>
+  </tr>
+  <tr>
+<td> terça </td>
+<td> pão </td>
+<td> 10 reais </td>
+  </tr>
+  </body>
+  </html>
