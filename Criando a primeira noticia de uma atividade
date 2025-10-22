@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <title> Notícias do dia</title>
+  </head>
+  <body>
+    <h1> Portal de noticias simples</h1>
+    <p> As ultimas novidades para você, produzindo TAG's em HTML</p>
+    
+    <hr> <section>
+      <h2> Tecnologia: lançamento de novo chip no mercado </h2>
+      <p>
+        Em um evento surpresa, a empresa XXXX apresentou seu novo chip, 10 vezes mais rapido que o anterior
+      <br> Especialisra em setor preveem um impacto significado na inteligencial. 
+      </p>
+      <p><i> Publicado em 30 de outubro de 2050</i></p>
+    </section>
+    <hr> <section>
+        <h2>Saúde: Pesquisadores Encontram Solução para Antigo Problema</h2>
+        <p>
+            Um time de cientistas da Universidade Federal do Conhecimento anunciou a descoberta de uma nova molécula 
+            que pode ser a chave para o tratamento de uma doença crônica. Os resultados preliminares são promissores.
+            <br> Os testes clínicos devem começar no próximo trimestre, gerando grande expectativa na comunidade médica.
+        </p>
+        <p><i>Fonte: Instituto de Pesquisa Avançada.</i></p>
+    </section>
+
+    <hr> <section>
+        <h2>Economia: Bolsa de Valores Alcança Recorde Histórico</h2>
+        <p>
+            O principal índice da Bolsa de Valores atingiu um novo recorde nesta quarta-feira, impulsionado por um 
+            aumento nas ações do setor de energia. 
+            <br> Analistas alertam para a cautela, mas o otimismo prevalece no mercado financeiro global.
+        </p>
+        <p><i>Por: João Silva, Editor de Finanças.</i></p>
+    </section>
+
+    <hr> <footer>
+        <h3>Desenvolvido para Atividade de HTML Básico</h3>
+        <p>&copy; 2025 - Todos os direitos reservados.</p>
+    </footer>
+  </body>
+</html>
