@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title> Fina Estampa</title>
+    <style>
+        body {
+      font-family: Arial, Sans-Serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    .divisão {
+      padding: 20px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+    }
+    .banner { background-color: #e0e0f8; text-align: center; }
+        .menu-principal { background-color: #ccccff; }
+        .produtos { background-color: #ffffff; }
+        .patrocinadores { background-color: #f0f0f0; }
+        .rodape { background-color: #333; color: white; text-align: center; }
+        /* Estilo básico para lista de menu */
+        .menu-principal ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .menu-principal li {
+            display: inline;
+            margin-right: 20px;
+        }
+    </style>
+    </head>
+    <body>
+      <header class="divisão banner">
+        <h1> Fina Estampa</h1>
+        <p> Moda com tradição e Estilo Atualizado</p>
+      </header>
+      
+      <nav class="divisão menu-principal">
+        <ul> 
+        <li><a href="#">home</a></li>
+        <li><a href="#coleção">coleção</a></li>
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#contato">Contato</a></li>
+        </ul>
+      </nav>
+      
+      <section class="divisão produtos" id="coleção">
+        <h2> Nossos produtos em destaque</h2>
+        <div>
+          <hr> <div>
+            <h3> Blazer Moderno</h3>
+            <p> O corte que você precisa para o dia a dia.</p>
+            <p>R$ 680,00</p>
+          </div>
+          
+          <hr> <div>
+            <h3> Blazer de Lã Premium</h3>
+            <p> Corte impecável e caimento perfeito</p>
+            <p> R$ 780,00</p>
+          </div>
+          
+          <hr> <div> 
+          <h3> Saia Moderna de Lã</h3>
+          <p> Toque de modernidade na moda principal</p>
+          <p> R$350,00 </p>
+          </div>
+          
+      </section>
+      
+      <aside class="divisao patrocinadores">
+        <h2>Patrocinadores / Parceiros</h2>
+        <p>Apoio de grandes nomes do mercado da moda:</p>
+        
+        <div>
+            <img src="placeholder_logo1.png" alt="Logo Patrocinador 1" style="max-width: 80px; margin-right: 15px;">
+            <img src="placeholder_logo2.png" alt="Logo Patrocinador 2" style="max-width: 80px;">
+        </div>
+    </aside>
+
+    <footer class="divisao rodape">
+        <p>&copy; 2025 Fina Estampa. Todos os direitos reservados.</p>
+        <p>Endereço: Rua xxxx, 123 | Telefone: (xx) xxxx-yyyy</p>
+    </footer>
+      
+    </body>
+    </html>
